@@ -1,4 +1,4 @@
-// Abdusamad Nigmatov 220063
+// Sitora Aslonova 220100
 // Tuesday 14:00
 
 // Q1
@@ -455,4 +455,5 @@ int main()
 // Java has checked & unchecked. C++ treats all as unchecked.
 
 // Q4
+
 // Exceptions separate normal/error logic, but overuse can hurt readability.
